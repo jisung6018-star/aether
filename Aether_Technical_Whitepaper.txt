@@ -1,0 +1,21 @@
+# Aether Dynamics Technical Whitepaper v1.0
+
+## 1. Introduction
+This document provides a technical overview of the Aether Dynamics platforms, focusing on the FORGE and NEXUS series.
+
+## 2. FORGE Platform (Industrial Autonomy)
+- Payload: 250kg
+- Degrees of Freedom: 48 Joints
+- Battery Life: 24h+ (Modular swap)
+- Material: High-strength titanium-steel alloy
+
+## 3. NEXUS Platform (Cognitive Research)
+- Degrees of Freedom: 64 Joints
+- Sensors: 8K Lidar, Biometric feedback, Neural-link interface
+- AI Core: Aether Intelligence 2.0
+
+## 4. Integration Guide
+Detailed SDK documentation can be found in the developer repository.
+
+---
+© 2024 Aether Dynamics. Mission-Critical Robotics.
